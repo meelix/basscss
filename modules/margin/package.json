@@ -12,6 +12,7 @@
     "postcss-custom-properties": "^5.0.0",
     "postcss-import": "^8.0.2"
   },
+  "style": "index.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/basscss/basscss.git"
